@@ -23,7 +23,7 @@ To overcome the issues with imbalanced data, we will use several techniques:
 
 and several machine learning algorithms:
 
-1. L~2~-regularized Logistic Regression
+1. L_2-regularized Logistic Regression
 2. $L$_2-regularized Logistic Regression
 3. Support Vector Machine (SVM)
 4. Random Forest
